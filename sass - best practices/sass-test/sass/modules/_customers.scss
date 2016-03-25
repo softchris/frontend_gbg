@@ -1,0 +1,11 @@
+.customer-tab{
+    color : $company-blue;
+    
+    -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+
+.link {
+    transition: transform 1s; 
+    display: flex;   
+}
